@@ -29,7 +29,8 @@ Input files are FPKM_tracing files for P0_1, P0_2, AD_1, AD_2, P4_1, P4_2, P7_1 
 
 Alternative to run on command line:
 
-`module load R/4.0.2
-Rscript BIOLOGIST.R`
+`module load R/4.0.2`
+
+`Rscript BIOLOGIST.R`
 
 
