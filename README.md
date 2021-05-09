@@ -11,15 +11,5 @@ Analyst: pre-computed.
 Biologist: Neha Gupta.
 
 # Repository Contents
-The procedure of data acquisition from the pubic database and most of raw data are not included in this repo.
 
-Qsub scripts of processing sequencing data.
-
-Quantification of gene expression.
-
-Scripts that reproduce the comparison of postnatal day 0 (P0) versus Adult.
-
-Scripts that compare and visualize key gene expressions among mice samples.
-
-A report in details.
-
+## Programmer
